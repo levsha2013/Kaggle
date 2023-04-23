@@ -1,0 +1,91 @@
+C:\Users\Lev\anaconda3\python.exe C:\Users\Lev\PycharmProjects\pythonProject\Leopard_challange.py 
+Training on fold [0/5]
+
+bestTest = 0.1509653806
+bestIteration = 3607
+
+Training on fold [1/5]
+
+bestTest = 0.1467248239
+bestIteration = 3909
+
+Training on fold [2/5]
+
+bestTest = 0.1482349987
+bestIteration = 3748
+
+Training on fold [3/5]
+
+bestTest = 0.1477425072
+bestIteration = 3879
+
+Training on fold [4/5]
+
+bestTest = 0.1484477816
+bestIteration = 2935
+
+0:	learn: 0.5178994	test: 0.5137575	best: 0.5137575 (0)	total: 18.7ms	remaining: 1m 10s
+100:	learn: 0.1833063	test: 0.1841831	best: 0.1841831 (100)	total: 1.89s	remaining: 1m 9s
+200:	learn: 0.1686108	test: 0.1712913	best: 0.1712913 (200)	total: 3.75s	remaining: 1m 7s
+300:	learn: 0.1605035	test: 0.1648157	best: 0.1647641 (298)	total: 5.66s	remaining: 1m 5s
+400:	learn: 0.1545733	test: 0.1596760	best: 0.1596760 (400)	total: 7.57s	remaining: 1m 4s
+500:	learn: 0.1499027	test: 0.1563493	best: 0.1563493 (500)	total: 9.72s	remaining: 1m 3s
+600:	learn: 0.1463966	test: 0.1541710	best: 0.1541710 (600)	total: 11.9s	remaining: 1m 3s
+700:	learn: 0.1432058	test: 0.1524306	best: 0.1524159 (699)	total: 14s	remaining: 1m 1s
+800:	learn: 0.1404202	test: 0.1512876	best: 0.1512876 (800)	total: 16.3s	remaining: 1m
+900:	learn: 0.1379037	test: 0.1503821	best: 0.1503821 (900)	total: 18.7s	remaining: 1m
+1000:	learn: 0.1356282	test: 0.1494774	best: 0.1494711 (999)	total: 21s	remaining: 58.8s
+1100:	learn: 0.1337715	test: 0.1489803	best: 0.1489741 (1097)	total: 23.4s	remaining: 57.4s
+1200:	learn: 0.1320584	test: 0.1485710	best: 0.1485604 (1197)	total: 25.7s	remaining: 55.6s
+1300:	learn: 0.1305587	test: 0.1481416	best: 0.1481325 (1299)	total: 27.9s	remaining: 53.5s
+1400:	learn: 0.1289027	test: 0.1477248	best: 0.1477248 (1400)	total: 30.2s	remaining: 51.6s
+1500:	learn: 0.1275486	test: 0.1474812	best: 0.1474565 (1477)	total: 32.4s	remaining: 49.6s
+1600:	learn: 0.1261266	test: 0.1473322	best: 0.1473028 (1596)	total: 34.8s	remaining: 47.7s
+1700:	learn: 0.1246293	test: 0.1468331	best: 0.1468151 (1694)	total: 37.1s	remaining: 45.7s
+1800:	learn: 0.1231686	test: 0.1465150	best: 0.1465040 (1788)	total: 39.4s	remaining: 43.7s
+1900:	learn: 0.1219874	test: 0.1463010	best: 0.1462896 (1898)	total: 41.8s	remaining: 41.7s
+2000:	learn: 0.1207791	test: 0.1459987	best: 0.1459959 (1997)	total: 44.1s	remaining: 39.6s
+2100:	learn: 0.1196996	test: 0.1459821	best: 0.1459099 (2046)	total: 46.5s	remaining: 37.5s
+2200:	learn: 0.1186728	test: 0.1459653	best: 0.1459099 (2046)	total: 48.8s	remaining: 35.4s
+2300:	learn: 0.1175793	test: 0.1456465	best: 0.1456465 (2300)	total: 51.1s	remaining: 33.3s
+2400:	learn: 0.1165007	test: 0.1454830	best: 0.1454599 (2365)	total: 53.5s	remaining: 31.1s
+2500:	learn: 0.1154836	test: 0.1454112	best: 0.1453640 (2481)	total: 55.8s	remaining: 29s
+2600:	learn: 0.1144933	test: 0.1452457	best: 0.1452452 (2597)	total: 58s	remaining: 26.7s
+2700:	learn: 0.1136409	test: 0.1452109	best: 0.1451414 (2651)	total: 1m	remaining: 24.5s
+2800:	learn: 0.1127622	test: 0.1452019	best: 0.1451414 (2651)	total: 1m 2s	remaining: 22.2s
+2900:	learn: 0.1118084	test: 0.1450402	best: 0.1450340 (2899)	total: 1m 4s	remaining: 19.9s
+3000:	learn: 0.1108896	test: 0.1449497	best: 0.1449106 (2982)	total: 1m 6s	remaining: 17.7s
+3100:	learn: 0.1098314	test: 0.1445973	best: 0.1445925 (3097)	total: 1m 8s	remaining: 15.5s
+3200:	learn: 0.1090378	test: 0.1445788	best: 0.1445648 (3139)	total: 1m 10s	remaining: 13.2s
+3300:	learn: 0.1082032	test: 0.1445629	best: 0.1445558 (3271)	total: 1m 12s	remaining: 11s
+3400:	learn: 0.1073675	test: 0.1446049	best: 0.1445547 (3310)	total: 1m 15s	remaining: 8.77s
+3500:	learn: 0.1066210	test: 0.1445763	best: 0.1445500 (3474)	total: 1m 17s	remaining: 6.55s
+3600:	learn: 0.1058172	test: 0.1445425	best: 0.1445329 (3595)	total: 1m 19s	remaining: 4.33s
+3700:	learn: 0.1049624	test: 0.1443766	best: 0.1443687 (3693)	total: 1m 21s	remaining: 2.13s
+3797:	learn: 0.1042561	test: 0.1444491	best: 0.1443569 (3705)	total: 1m 23s	remaining: 0us
+
+bestTest = 0.1443568798
+bestIteration = 3705
+
+Shrink model to first 3706 iterations.
+       Feature Id  Importances
+0           Rooms    15.310806
+1        Distance    12.555184
+2            Type    10.361779
+3      Regionname     7.897981
+4        Landsize     7.651704
+5     CouncilArea     6.655447
+6          Suburb     6.299729
+7    BuildingArea     4.410211
+8         SellerG     4.269123
+9        Bathroom     3.875521
+10     Longtitude     3.723869
+11       Postcode     2.949943
+12      Lattitude     2.493004
+13           Date     2.259253
+14      YearBuilt     2.104428
+15        Address     1.845832
+16  Propertycount     1.696610
+17         Method     1.588871
+18            Car     1.285175
+19       Bedroom2     0.765529
